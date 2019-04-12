@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/septimia/NIPS2019/Python/Workshop_ICML2018/Cdf_VAE/IRELBO/save/model.ckpt"
+all_model_checkpoint_paths: "/home/septimia/NIPS2019/Python/Workshop_ICML2018/Cdf_VAE/IRELBO/save/model.ckpt"
